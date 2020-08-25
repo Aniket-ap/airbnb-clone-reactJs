@@ -17,7 +17,7 @@ class NavBar extends Component {
           <nav className={navColor}>
             <div className="nav-wrapper">
               <Link to="/" className="left">
-                airbnb
+                AIRBNB
               </Link>
               <ul id="nav-mobile" className="right">
                 <li>
